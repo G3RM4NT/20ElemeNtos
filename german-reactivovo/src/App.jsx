@@ -13,7 +13,12 @@ import ModernTable from './components/ModernTable'
 import Dropdown from './components/Dropdown'
 import List from './components/List'
 import Model from './components/Model'
-
+import Tabs from './components/Tabs'
+import Offcanvas from './components/Offcanvas'
+import Pagination from './components/pagination'
+import Placeholders from './components/Placeholders'
+import Popover from './components/Popover'
+import Progress from './components/Progress'
 
 function App() {
  
@@ -36,8 +41,12 @@ function App() {
 <Dropdown></Dropdown>
 <List></List>
 <Model></Model>
-
-
+<Tabs></Tabs>
+<Offcanvas></Offcanvas>
+<Pagination></Pagination>
+<Placeholders></Placeholders>
+<Popover></Popover>
+<Progress></Progress>
 
 
     </>
