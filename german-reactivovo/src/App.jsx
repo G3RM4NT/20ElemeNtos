@@ -19,6 +19,9 @@ import Pagination from './components/pagination'
 import Placeholders from './components/Placeholders'
 import Popover from './components/Popover'
 import Progress from './components/Progress'
+import Popover2 from './components/popover2'
+import Scroll from './components/Scroll'
+import Toast from './components/Toast'
 
 function App() {
  
@@ -47,6 +50,9 @@ function App() {
 <Placeholders></Placeholders>
 <Popover></Popover>
 <Progress></Progress>
+<Popover2></Popover2>
+<Scroll></Scroll>
+<Toast></Toast>
 
 
     </>
